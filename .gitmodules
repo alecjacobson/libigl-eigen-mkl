@@ -1,0 +1,4 @@
+[submodule "SuiteSparse"]
+	path = SuiteSparse
+	url = https://github.com/sergiud/SuiteSparse
+	branch = cmake
